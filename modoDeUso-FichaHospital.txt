@@ -1,0 +1,8 @@
+1- inserir nome do paciente.
+2- inserir data de nascimento do paciente.
+3-inserir a QUANTIDADE de sintomas.
+4-digitar o QUAIS foram os sintomas.
+------------------------------------------------------------------------------IF-------------------------------------------------------------------------------------------------
+5-se tiver menos que 17 anos , digite o nome do responsavel.
+6-digite a data de nascimento de responsavel.
+7-digite o RG do responsavel.
